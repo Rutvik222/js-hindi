@@ -1,0 +1,9 @@
+ const accountID = 144553
+ let accountEmail = "rutvik0305@gmail.com"
+ var acoountPassword ="1234"
+ accountCity = "Mumbai"
+
+ accountID = 2
+ 
+ console.log(accountId);
+ 
